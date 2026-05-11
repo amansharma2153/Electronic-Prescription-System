@@ -1,0 +1,21 @@
+drug1,drug2,severity,description,recommendation
+Aspirin,Warfarin,HIGH,Increased bleeding risk due to anticoagulant effect,Avoid combination or monitor closely
+Metformin,Alcohol,MEDIUM,Increased lactic acidosis risk,Limit alcohol consumption
+Lisinopril,Potassium,HIGH,Risk of hyperkalemia,Monitor potassium levels regularly
+Ibuprofen,Aspirin,HIGH,Increased GI bleeding risk with combined NSAIDs,Use only one NSAID
+Metoprolol,Verapamil,HIGH,Risk of bradycardia and AV block,Avoid combination if possible
+Amoxicillin,Methotrexate,MEDIUM,Reduced methotrexate clearance,Monitor MTX levels
+Simvastatin,Erythromycin,HIGH,Increased statin levels and risk of myopathy,Avoid combination
+Fluoxetine,Tramadol,HIGH,Serotonin syndrome risk,Use with extreme caution
+Digoxin,Verapamil,HIGH,Increased digoxin toxicity,Monitor digoxin levels
+Clopidogrel,Omeprazole,MEDIUM,Reduced clopidogrel effectiveness,Use alternative PPI
+Warfarin,NSAIDs,HIGH,Increased bleeding risk,Avoid NSAIDs or use with caution
+Methotrexate,NSAIDs,HIGH,Reduced methotrexate clearance and toxicity risk,Avoid NSAIDs
+ACE Inhibitors,Potassium Supplements,HIGH,Hyperkalemia risk,Monitor potassium levels
+Beta-blockers,Calcium Channel Blockers,MEDIUM,Additive cardiac effects,Use with caution
+SSRIs,Warfarin,MEDIUM,Increased bleeding risk,Monitor INR regularly
+Statins,Gemfibrozil,HIGH,Increased myopathy risk,Avoid combination
+Aminoglycosides,Loop Diuretics,HIGH,Increased nephrotoxicity,Monitor renal function
+Phenytoin,Warfarin,MEDIUM,Altered anticoagulant effect,Monitor INR closely
+Metformin,Contrast Media,HIGH,Risk of lactic acidosis,Discontinue metformin before procedure
+Grapefruit Juice,Statins,MEDIUM,Increased statin levels,Avoid grapefruit consumption
